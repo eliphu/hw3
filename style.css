@@ -1,0 +1,45 @@
+body {
+    background-color: aquamarine;
+    font: Calibri;
+}
+
+p {
+    font: Calibri;
+}
+
+h1 {
+    color: red;
+    font: Courier;
+}
+
+h2 {
+    color: red;
+    font: Courier;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+.button:hover {
+    color: red;
+}
+
+.button:active {
+    color: green;
+}
+
+ul.a {
+    list-style-type: square;
+}
+
+ol.a {
+    list-style-type: lower-roman;
+}
+
+tr:nth-child(even) {background-color: lightgray}
+tr:hover {background-color: lightblue}
