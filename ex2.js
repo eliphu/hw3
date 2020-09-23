@@ -44,8 +44,9 @@ Example 2 JavaScript code
                 text = "Invalid";
                 text1 = "Please try again";
         } 
-        ex2();
+        document.getElementById("demo").innerHTML = text + "<br>" + text1;
     }
+    ex2();
 </script>
 </body>
 </html>
