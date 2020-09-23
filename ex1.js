@@ -1,7 +1,5 @@
-/*Tutorial 4
-Example 1 JavaScript code
-*/
-
+<html>
+<body>
 <p id="demo"></p>
 
 <script>
@@ -25,3 +23,4 @@ Example 1 JavaScript code
     }
     classStanding();
 </script>
+</body>
